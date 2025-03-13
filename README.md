@@ -18,7 +18,7 @@ This MCP server provides a standardized interface for LLMs to interact with Baom
 
 - Python 3.7+
 - `httpx` library
-- MCP SDK (`mcp-server`)
+- MCP SDK
 
 ## Installation
 
