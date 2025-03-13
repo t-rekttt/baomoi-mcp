@@ -30,7 +30,7 @@ cd baomoi-mcp
 
 2. Install dependencies:
 ```bash
-pip install httpx mcp-server
+pip install -r requirements.txt
 ```
 
 ## Configuration
